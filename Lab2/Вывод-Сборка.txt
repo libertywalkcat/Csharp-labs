@@ -1,0 +1,3 @@
+﻿1>------ Перестроение всех файлов начато: проект: Lab2, Конфигурация: Debug Any CPU ------
+1>  Lab2 -> C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe
+========== Перестроение всех проектов: успешно: 1, с ошибками: 0, пропущено: 0 ==========

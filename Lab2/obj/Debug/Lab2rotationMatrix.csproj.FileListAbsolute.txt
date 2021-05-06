@@ -1,0 +1,23 @@
+C:\Users\raige\source\repos\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe.config
+C:\Users\raige\source\repos\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe
+C:\Users\raige\source\repos\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.pdb
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csprojAssemblyReference.cache
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.Form1.resources
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.Properties.Resources.resources
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csproj.GenerateResource.cache
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.exe
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.pdb
+C:\Users\raige\source\repos\Lab2rotationMatrix\bin\Debug\CoolThings.pdb
+C:\Users\raige\source\repos\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csproj.CopyComplete
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe.config
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.pdb
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\CoolThings.pdb
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csprojAssemblyReference.cache
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.Properties.Resources.resources
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csproj.GenerateResource.cache
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csproj.CoreCompileInputs.cache
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.csproj.CopyComplete
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.exe
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.pdb
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2.Form1.resources

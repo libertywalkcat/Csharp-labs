@@ -1,0 +1,10 @@
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe.config
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.exe
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\bin\Debug\Lab2rotationMatrix.pdb
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2.Form1.resources
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.Properties.Resources.resources
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2.csproj.CopyComplete
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.exe
+C:\Users\LibertyCat\Desktop\lab 2\Lab2rotationMatrix\obj\Debug\Lab2rotationMatrix.pdb
